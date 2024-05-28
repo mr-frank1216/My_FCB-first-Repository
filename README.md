@@ -18,10 +18,17 @@
 - jupyter notebook Download [Here](jupyter)
 - Tabuleau
 
-
+---
 ```
 Google Query
 
 SELECT * from Table
 Where Condition = MET
 ```
+---
+![](unnamed.jpg)
+---
+|Name| Age | Gender|
+|----| ----| ------|
+|Emeka| 30 | Male|
+
