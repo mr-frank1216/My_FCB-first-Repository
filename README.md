@@ -5,6 +5,7 @@
 **This is the first project I want to do in using Github, it will be a lovely nice journey.**
 *This is the first project I want to do in using Github, it will be a lovely nice journey*
 
+---
 ## Project Overview
 
 
@@ -16,3 +17,11 @@
 - Power BI [download Here](https://powerbi.microsoft.com/en-us/desktop/)
 - jupyter notebook Download [Here](jupyter)
 - Tabuleau
+
+
+```
+Google Query
+
+SELECT * from Table
+Where Condition = MET
+```
